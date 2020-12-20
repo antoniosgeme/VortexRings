@@ -6,4 +6,4 @@ Simple code that utilizes PotentialFlow.jl to simulate axisymmetric vortex rings
 <img src="jl_CFzHikMGNI.gif" />
 
 
-<img src="RingInteraction1.gif" width="200" height="200" />
+<img src="RingInteraction1.gif" width="1000" height="10000" />
