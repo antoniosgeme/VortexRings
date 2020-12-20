@@ -1,2 +1,3 @@
 # VortexRings
-Simple julia code to simulate vortex rings using potential flow
+This is mainly me trying to learn julia and git workflow. 
+Simple code that utilizes PotentialFlow.jl package to simulate axisymmetric vortex rings 
