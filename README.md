@@ -1,5 +1,5 @@
 # VortexRings
-This is mainly me trying to learn julia and the git workflow. 
+Desperately trying to learn git
 Simple code that utilizes PotentialFlow.jl to simulate axisymmetric vortex rings 
 
 
