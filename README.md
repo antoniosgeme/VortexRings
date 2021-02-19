@@ -1,5 +1,4 @@
 # VortexRings
-Desperately trying to learn git
 Simple code that utilizes PotentialFlow.jl to simulate axisymmetric vortex rings 
 
 
